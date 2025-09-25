@@ -1,0 +1,1 @@
+To run the code you will need `pandas`, `numpy`, `scikit-learn`, and `matplotlib`. You will also need the `train.csv` file from titanic dataset on kaggle. If you don't want to run the code from the 2 .py files please look at hw2.pdf for all the code and my report.
