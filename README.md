@@ -11,13 +11,13 @@ Then create a venv
 ```
 python -m venv .venv
 ```
+Activate the env
+```
+source venv/bin/activate
+```
 Then install the requirements
 ```
 pip3 install -r requirements.txt
-```
-After that activate the env
-```
-source venv/bin/activate
 ```
 Then run whichever file you want
 ```
